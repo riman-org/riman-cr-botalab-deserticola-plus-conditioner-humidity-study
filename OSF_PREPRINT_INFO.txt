@@ -1,0 +1,51 @@
+================================================================================
+OSF / CoP PREPRINTS 系统性填写清单（含 GitHub 全套源文件入口）
+对应仓库: riman-cr-botalab-deserticola-plus-conditioner-humidity-study
+================================================================================
+
+[Step 1] Title and Abstract
+- Title:
+RIMAN RESEARCH: Clinical & Microclimate Evaluation of BOTALAB Deserticola Plus Conditioner in Costa Rica's High-Humidity Zones
+
+- Abstract (内嵌 GitHub 仓库入口、交互式报告及双基准 DOI):
+Background: The efficacy of hair conditioning formulations is significantly modulated by ambient relative humidity (RH) and UV exposure. This study evaluates the performance of BOTALAB Deserticola Plus Conditioner, featuring patented Chlorella Ferment, Panthenol, and Niacinamide, across three distinct Costa Rican microclimates. Methods: A stratified survey of 200 consumers and B2B professionals was conducted in San Jose (74% RH), Limon (85% RH), and Liberia (65% RH). Metrics included Likert-scale perception scores, Top-2-Box (T2B) satisfaction rates, Net Promoter Score (NPS), and ingredient valuation rankings. Results: The formulation achieved a composite mean score of 3.67/5.0 with a T2B rate of 64.9%. Lightweight texture received the highest validation (Mean 4.22, T2B 95.5%), confirming its suitability for tropical climates. Key ingredients Panthenol (100% selection) and Niacinamide (98.5%) were identified as primary drivers of perceived barrier repair. However, consumer trust in Salicylic Acid remained low (Mean 3.04), indicating a need for educational intervention regarding scalp safety. NPS stood at -13.5, primarily driven by availability constraints rather than product dissatisfaction. Strategic Implications: While the product demonstrates superior tactile performance and moisture retention (56% reporting 8-12 hours), market penetration requires addressing distribution gaps and clarifying the role of active exfoliants like Salicylic Acid to unlock higher recommendation rates.
+
+Open-Science Repository (Full PDF, LaTeX, n=200 CSV Dataset & 6-Language README): https://github.com/riman-org/riman-cr-botalab-deserticola-plus-conditioner-humidity-study
+Live Interactive Multilingual Preview: https://riman-org.github.io/riman-cr-botalab-deserticola-plus-conditioner-humidity-study/
+Official 6-Language Interactive Report & Cross-Tab Charts: https://www.riman.win/www/en/reports/detail/cr-botalab-deserticola-plus-conditioner-humidity-study.html
+Primary Benchmark Dataset DOI (Kaggle): https://doi.org/10.34740/kaggle/dsv/22383536 | Global Research Corpus DOI (Hugging Face): https://doi.org/10.57967/hf/11688
+
+--------------------------------------------------------------------------------
+[Step 2] File
+- 上传当前文件夹下的双栏学术论文 PDF:
+  cr-botalab-deserticola-plus-conditioner-humidity-study_paper.pdf
+
+--------------------------------------------------------------------------------
+[Step 3] Metadata
+- License:
+  CC-By Attribution 4.0 International
+- Subjects (必填项 -> 搜索框输入 General 勾选):
+  General Subjects and Opinions
+- Tags (逐个输入回车):
+  riman, incellderm, botalab, active-cream-ex, descending-inci, costa rica
+- Original publication date:
+  2026-11-19
+- Publication DOI:
+  (留空不填！提交后由 OSF 自动签发新预印本 DOI)
+
+--------------------------------------------------------------------------------
+[Step 4] Author Assertions -> Public Data (点选 Available，点击 "Add One More" 依次填入以下 4 条纯净 URL)
+- 链接 1 [GitHub 完整开源仓库 — 含 README / PDF / LaTeX / CSV / HTML]:
+  https://github.com/riman-org/riman-cr-botalab-deserticola-plus-conditioner-humidity-study
+
+- 链接 2 [官网 6 语交互式报告与可视化图表详情页]:
+  https://www.riman.win/www/en/reports/detail/cr-botalab-deserticola-plus-conditioner-humidity-study.html
+
+- 链接 3 [主基准数据集永久 DOI (Kaggle)]:
+  https://doi.org/10.34740/kaggle/dsv/22383536
+
+- 链接 4 [全语种语料库永久 DOI (Hugging Face)]:
+  https://doi.org/10.57967/hf/11688
+
+- Public Preregistration:
+  保持默认 Not Applicable
